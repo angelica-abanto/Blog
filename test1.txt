@@ -2,3 +2,4 @@ Documento de prueba 1
 historia
 edad
 estudios
+altura
